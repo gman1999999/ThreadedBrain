@@ -1,0 +1,15 @@
+Thu Mar 22 18:43:27 2018	Neuron 0 has multiplier 1.509568.
+Thu Mar 22 18:43:27 2018	Neuron 0 has multiplier 1.579699.
+Thu Mar 22 18:43:27 2018	Neuron 0 has multiplier 1.597278.
+Thu Mar 22 18:43:27 2018	Eye thread works.
+Thu Mar 22 18:43:27 2018	Neuron 0 has multiplier 1.614795.
+Thu Mar 22 18:43:27 2018	Display thread works.
+Thu Mar 22 18:43:29 2018	Brain thread works.
+Thu Mar 22 18:43:29 2018	Eye thread works.
+Thu Mar 22 18:43:29 2018	Display thread works.
+Thu Mar 22 18:43:31 2018	Brain thread works.
+Thu Mar 22 18:43:31 2018	Eye thread works.
+Thu Mar 22 18:43:31 2018	Display thread works.
+Thu Mar 22 18:43:33 2018	Brain thread works.
+Thu Mar 22 18:43:33 2018	Eye thread works.
+Thu Mar 22 18:43:33 2018	Display thread works.
